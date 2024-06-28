@@ -34,6 +34,7 @@ var listaPersonasEjemplo = [
  * Retorna: 
  * - el mismo listado, ordenado alfabéticamente por el apellido de la persona 
  */
+let apellidoDelAlumno = listaDeAlumnosEjemplo[1].apellido;
 function ordenarPorApellido(listaDePersonas) {
     // 
 }
